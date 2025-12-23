@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "又三郎",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-23T04:50:24.477765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_又三郎_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_又三郎_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_又三郎_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_又三郎_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "又三郎 - Matasaburo",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_又三郎_-_Matasaburo_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/06_又三郎_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "又三郎",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_又三郎_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "又三郎 - Matasaburo",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/08_又三郎_-_Matasaburo_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "又三郎; Matasaburō",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/09_又三郎;_Matasaburō_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "又三郎",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_又三郎_ヨルシカ.txt"
+    }
+  ]
+}
